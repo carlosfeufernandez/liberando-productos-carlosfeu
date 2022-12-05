@@ -1,6 +1,5 @@
-[![release-build](https://github.com/KeepCodingCloudDevops6/liberando-productos-carlosfeu/actions/workflows/release.yaml/badge.svg)](https://github.com/KeepCodingCloudDevops6/liberando-productos-carlosfeu/actions/workflows/release.yaml)
-[![Test](https://github.com/KeepCodingCloudDevops6/liberando-productos-carlosfeu/actions/workflows/test.yaml/badge.svg)](https://github.com/KeepCodingCloudDevops6/liberando-productos-carlosfeu/actions/workflows/test.yaml)
-# keepcoding-devops-liberando-productos-practica-final
+[![Test](https://github.com/carlosfeufernandez/liberando-productos-carlosfeu/actions/workflows/test.yaml/badge.svg)](https://github.com/carlosfeufernandez/liberando-productos-carlosfeu/actions/workflows/test.yaml)
+[![release-build](https://github.com/carlosfeufernandez/liberando-productos-carlosfeu/actions/workflows/release.yaml/badge.svg)](https://github.com/carlosfeufernandez/liberando-productos-carlosfeu/actions/workflows/release.yaml)
 
 ## Objetivo
 
